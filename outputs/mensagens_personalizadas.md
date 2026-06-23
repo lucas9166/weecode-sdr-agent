@@ -1,44 +1,64 @@
-# Mensagens personalizadas — simulação de rascunhos
+# Mensagens personalizadas — simulação SDR Weecode
 
-> Simulação com dados inteiramente fictícios. Estes textos não foram enviados, não devem ser enviados diretamente e exigem revisão humana antes de qualquer uso futuro.
+> Seis rascunhos para os perfis A e B da simulação. Todos os nomes, instituições, localidades e contextos são fictícios. Não há contatos reais neste arquivo. Nenhuma mensagem foi enviada; revisão humana é obrigatória antes de qualquer eventual uso.
 
-## 1. Hospital Exemplo Alfa (FICTÍCIO) — classificação A
+## 1. Hospital Regional Vale Claro (FICTÍCIO) — A
 
-- Cargo-alvo fictício: Gerente de TI
-- Fato usado: o exemplo registra uma área de TI.
-- Hipótese a validar: não há ERP, volume de notas ou processo fiscal confirmado.
-- Fonte: registro de demonstração interno fictício.
-- Status de revisão: Pendente.
+- Área-alvo simulada: TI e suprimentos
+- Hipótese a validar: existência de volume relevante de NFe e integração com ERP
 
-> Olá, Marina. Na Weecode, apoiamos instituições de saúde a avaliar o fluxo de NFe, XML e DANFE em integração com o ERP. Caso faça sentido, podemos entender em uma conversa breve como esse processo é tratado hoje? Se não for o tema certo, me avise e não volto a insistir.
+> Olá, equipe de TI e suprimentos. A Weecode apoia instituições de saúde a avaliarem o fluxo de NFe, XML e DANFE em conexão com o ERP. Caso faça sentido, podemos entender em uma conversa breve como esse processo é tratado hoje? Se não for o tema certo, por favor nos avisem.
 
 Status: aguarda revisão humana antes do envio.
 
-## 2. Clínica Modelo Beta (FICTÍCIA) — classificação B
+## 2. Hospital Metropolitano das Colinas (FICTÍCIO) — A
 
-- Cargo-alvo fictício: Diretor Financeiro
-- Fato usado: o exemplo aponta uma área financeira.
-- Hipótese a validar: possível retrabalho entre financeiro e compras; ERP e volume não identificados.
-- Fonte: registro de demonstração interno fictício.
-- Status de revisão: Pendente.
+- Área-alvo simulada: financeiro e fiscal
+- Hipótese a validar: conferência entre recebimento, financeiro e contabilidade
 
-> Olá, Rafael. A Weecode apoia instituições de saúde a avaliarem a organização do fluxo de documentos fiscais. Podemos conversar brevemente para entender se há oportunidade de diagnosticar o recebimento e a conferência de NFe na clínica? Se não for o tema adequado, por favor me avise.
+> Olá, equipe financeira e fiscal. A Weecode trabalha com a avaliação do fluxo de documentos fiscais em instituições de saúde. Podemos conversar brevemente para entender se o recebimento e a conferência de NFe têm pontos que merecem diagnóstico? Se não for o tema adequado, por favor nos avisem.
 
 Status: aguarda revisão humana antes do envio.
 
-## 3. Laboratório Cenário Gama (FICTÍCIO) — classificação B
+## 3. Clínica Integrada Horizonte (FICTÍCIA) — B
 
-- Cargo-alvo fictício: Coordenadora de Suprimentos
-- Fato usado: o exemplo aponta a área de suprimentos.
-- Hipótese a validar: a conferência de XML e DANFE é apenas uma possibilidade.
-- Fonte: registro de demonstração interno fictício.
-- Status de revisão: Pendente.
+- Área-alvo simulada: diretoria financeira
+- Hipótese a validar: retrabalho na entrada de NFe de materiais e serviços
 
-> Olá, Camila. A Weecode ajuda instituições de saúde a avaliarem o fluxo de NFe, XML e DANFE junto ao ERP. Caso faça sentido, podemos entender em uma conversa breve como a conferência desses documentos é tratada no laboratório? Se não for o tema certo, me avise e não volto a insistir.
+> Olá, equipe financeira. A Weecode apoia a análise do fluxo de NFe em instituições de saúde. Caso faça sentido, podemos entender em uma conversa breve como a clínica organiza o recebimento e a conferência de documentos fiscais? Se não for o tema certo, por favor nos avisem.
 
 Status: aguarda revisão humana antes do envio.
 
-## Registros sem mensagem
+## 4. Centro Ortopédico Caminhos (FICTÍCIO) — B
 
-- Operadora Ilustrativa Delta (C): manter em pesquisa; faltam evidências de aderência.
-- Consultório Demonstração Épsilon (D): fora do perfil prioritário; não abordar.
+- Área-alvo simulada: compras
+- Hipótese a validar: conferência entre pedido, recebimento e nota fiscal
+
+> Olá, equipe de compras. A Weecode ajuda instituições de saúde a avaliarem a organização de NFe, XML e DANFE no fluxo de suprimentos. Caso seja pertinente, podemos fazer uma conversa breve para entender como essa conferência ocorre hoje? Se não for o tema adequado, por favor nos avisem.
+
+Status: aguarda revisão humana antes do envio.
+
+## 5. Laboratório Diagnósticos Aurora (FICTÍCIO) — B
+
+- Área-alvo simulada: suprimentos
+- Hipótese a validar: conferência manual de documentos fiscais de insumos
+
+> Olá, equipe de suprimentos. A Weecode apoia instituições de saúde a avaliarem o fluxo de NFe, XML e DANFE integrado ao ERP. Podemos entender em uma conversa breve como o laboratório trata a conferência desses documentos? Se não for o tema adequado, por favor nos avisem.
+
+Status: aguarda revisão humana antes do envio.
+
+## 6. Fundação Assistencial Novo Amanhã (FICTÍCIA) — B
+
+- Área-alvo simulada: administrativo e TI
+- Hipótese a validar: necessidade de rastreabilidade entre compras, financeiro e documentos fiscais
+
+> Olá, equipe administrativa e de TI. A Weecode apoia instituições de saúde a avaliarem a rastreabilidade do fluxo de NFe, XML e DANFE em conexão com o ERP. Caso faça sentido, podemos conversar brevemente para entender o cenário atual? Se não for o tema certo, por favor nos avisem.
+
+Status: aguarda revisão humana antes do envio.
+
+## Sem rascunho de mensagem
+
+- Rede Laboratorial Ponto Vital (C), Instituto Beneficente Vida Plena (C) e Operadora Saúde em Rede (C): manter em pesquisa; não preparar abordagem.
+- Administradora Cuidado Compartilhado (D): fora do perfil; não abordar.
+
+Nenhuma mensagem acima pode ser enviada sem aprovação humana explícita.
